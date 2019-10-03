@@ -20,8 +20,8 @@ figcaption {
 body {
   font-family: "News Cycle", sans-serif;
   font-size: 11pt;
-  background-color: #222224;
-  color: lightgray;
+  background-color: #101010;
+  color: red;
 }
 main > p::first-letter {
   font-size: 16pt;
@@ -107,7 +107,7 @@ blockquote {
     font-weight: 100;
   }
   footer {
-    background-color: black;
+    background-color: blue;
     position: fixed;
     bottom: 0;
     width: 100%;
