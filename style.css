@@ -39,6 +39,14 @@ h2 {
   font-size: 2em;
   clear: both;
 }
+h3 {
+  font-size: 3em;
+  color: rgb(23, 23, 245)
+}
+ul {
+  font-size: 2em;
+  color: rgb(121, 193, 218);
+}
 p {
   text-align: justify;
   line-height: 1.5;
