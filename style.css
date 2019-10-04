@@ -83,6 +83,8 @@ blockquote {
   font-style: italic;
   font-size: 16pt;
   background-color: #222224;
+  margin-left: 0;
+  margin-right: 0;
 }
 #assinatura {
   font-family: "Dancing Script", cursive;
